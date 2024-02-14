@@ -46,4 +46,3 @@ More specifically, the positions of the actuators (their extension) are retrieve
 | 🔒 **Confidentiality**       | **Public**                                         |
 | ⚖️ **License**               |  [MIT License](https://choosealicense.com/licenses/mit/)                  |
 | 👨‍👨‍👦 **Authors**               |   Floris JOUSSELIN & Mathilde POMMIER   |
-
