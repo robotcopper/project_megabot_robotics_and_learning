@@ -57,3 +57,4 @@ In more detail, the folder contains the following files:
   - [one_leg_creeping_gait_real_megabot.mp4](one_leg_creeping_gait_real_megabot.mp4): from the [creeping_gait_with_com.py](../src/simulation_and_real_megabot/move_base_with_keyboard.py) script
   - [creeping_gait_simulation_megabot.mp4](creeping_gait_simulation_megabot.mp4): from the [creeping_gait.py](../src/simulation/creeping_gait.py) script
   - [creeping_gait_quick_simulation_megabot.mp4](creeping_gait_quick_simulation_megabot.mp4): from the [creeping_gait.py](../src/simulation/creeping_gait.py) script
+
