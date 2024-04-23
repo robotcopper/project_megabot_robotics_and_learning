@@ -44,5 +44,5 @@ More specifically, the positions of the actuators (their extension) are retrieve
 |:----------------------------:|:-----------------------------------------------------------------------:|
 | 💼 **Client**                |  EIRLAB / Rhoban                                              |
 | 🔒 **Confidentiality**       | **Public**                                         |
-| ⚖️ **License**               |  [MIT License](https://choosealicense.com/licenses/mit/)                  |
+| ⚖️ **License**               |  [BSD 3-Clause License](https://choosealicense.com/licenses/bsd-3-clause/)           |
 | 👨‍👨‍👦 **Authors**               |   Floris JOUSSELIN & Mathilde POMMIER   |
